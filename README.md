@@ -1,6 +1,6 @@
 # Hello World! My name is Sebastian and...
 
-I am a passionate Full Stack developer dedicated to constant growth and continuous learning. I excel in my results-driven approach, besides I'm a fast learner and easily adptable. I am seeking a collaborative and flexible work environment with exciting challenges and opportunities for professional development.
+I am a passionate Full Stack developer dedicated to constant growth and continuous learning. I excel in my results-driven approach, besides I'm a fast learner and easily adaptable. I am seeking a collaborative and flexible work environment with exciting challenges and opportunities for professional development. I believe that fostering a sense of competence is a powerful booster for self development. By being open to learning from others, I can continuously improve and achieve my goals.
 
 I burned my last laptop out of coding so much 🔥, but I managed to do a git push before it happened ✅.
 
